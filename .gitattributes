@@ -1,3 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
 .uasset filter=lfs diff=lfs merge=lfs -text
+=======
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.uasset filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 24c285556fdea5056e8051a489ec94a725af5eb5
