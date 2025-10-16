@@ -1,2 +1,5 @@
-[1009/105224.421:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1009/105422.413:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1016/192048.677:ERROR:os_crypt_win.cc(93)] Failed to decrypt: 该项不适于在指定状态下使用。 (0x8009000B)
+[1016/192059.024:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1016/192059.784:WARNING:storage_block-inl.h(146)] Failed data load.
+[1016/192059.884:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1016/192249.258:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
