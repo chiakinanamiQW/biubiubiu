@@ -1,8 +1,0 @@
-2025/10/08-17:12:07.063 89f4 Reusing MANIFEST D:/soft/github/biubiubiu/biubiubiu/Saved/webcache_4430\IndexedDB\https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
-2025/10/08-17:12:07.063 89f4 Recovering log #13
-2025/10/08-17:12:07.064 89f4 Reusing old log D:/soft/github/biubiubiu/biubiubiu/Saved/webcache_4430\IndexedDB\https_h.online-metrix.net_0.indexeddb.leveldb/000013.log 
-2025/10/08-17:12:32.246 89f4 Level-0 table #17: started
-2025/10/08-17:12:32.246 89f4 Level-0 table #17: 0 bytes OK
-2025/10/08-17:12:32.250 89f4 Delete type=0 #13
-2025/10/08-17:12:32.250 89f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2025/10/08-17:12:32.250 89f4 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

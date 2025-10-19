@@ -1,6 +1,0 @@
-2025/10/08-17:10:36.721 6734 Creating DB D:/soft/github/biubiubiu/biubiubiu/Saved/webcache_4430\IndexedDB\https_id.sonyentertainmentnetwork.com_0.indexeddb.leveldb since it was missing.
-2025/10/08-17:10:36.732 6734 Reusing MANIFEST D:/soft/github/biubiubiu/biubiubiu/Saved/webcache_4430\IndexedDB\https_id.sonyentertainmentnetwork.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/10/08-17:10:41.624 86c8 Level-0 table #5: started
-2025/10/08-17:10:41.628 86c8 Level-0 table #5: 1247 bytes OK
-2025/10/08-17:10:41.633 86c8 Delete type=0 #3
-2025/10/08-17:10:41.634 86c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

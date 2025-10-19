@@ -1,8 +1,0 @@
-2025/10/08-17:12:06.400 a0e0 Reusing MANIFEST D:/soft/github/biubiubiu/biubiubiu/Saved/webcache_4430\IndexedDB\https_my.account.sony.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/10/08-17:12:06.400 a0e0 Recovering log #7
-2025/10/08-17:12:06.401 a0e0 Reusing old log D:/soft/github/biubiubiu/biubiubiu/Saved/webcache_4430\IndexedDB\https_my.account.sony.com_0.indexeddb.leveldb/000007.log 
-2025/10/08-17:12:19.513 89f4 Level-0 table #11: started
-2025/10/08-17:12:19.513 89f4 Level-0 table #11: 0 bytes OK
-2025/10/08-17:12:19.518 89f4 Delete type=0 #7
-2025/10/08-17:12:19.518 89f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2025/10/08-17:12:19.518 89f4 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
